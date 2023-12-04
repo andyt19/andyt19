@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andyt19
-- 🌱 I’m currently furthering my Javascript knowledge and plan on learning React and C#
+- 🌱 My current stack includes Java, Spring, SQL, and Python
 - 📫 You can reach me at andy.chris.tang@gmail.com
 
 <!---
